@@ -1,0 +1,12 @@
+\begin{python}
+def result_score(result):
+    weight = 1.0
+
+    for result_engine in result['engines']:
+        if hasattr(engines[result_engine], 'weight'):
+            weight *= float(engines[result_engine].weight)
+
+    occurrences = len(result['positions'])
+
+    return sum((occurrences * weight) / position for position in result['positions'])
+\end{python}
