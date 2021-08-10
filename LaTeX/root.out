@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section*.2}{Unnumbered Section}{}% 1
+\BOOKMARK [1][-]{section.1}{Abstract}{}% 2
+\BOOKMARK [1][-]{section.2}{Metasearch and Crawler Engines}{}% 3
+\BOOKMARK [1][-]{section.3}{SearX Algorithm}{}% 4
+\BOOKMARK [1][-]{section.4}{Modeling and Simulation of the popularity of SearX}{}% 5
+\BOOKMARK [2][-]{subsection.4.1}{SI Model}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.2}{Applying the Gillespie algorithm to the SI model}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.3}{Applying the optimal control to the SI model}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.4}{Beyond the SI model}{section.4}% 9
+\BOOKMARK [3][-]{subsubsection.4.4.1}{SIR model}{subsection.4.4}% 10
+\BOOKMARK [3][-]{subsubsection.4.4.2}{SIRI model}{subsection.4.4}% 11
+\BOOKMARK [3][-]{subsubsection.4.4.3}{SEIRI model}{subsection.4.4}% 12
+\BOOKMARK [1][-]{section.5}{Churn}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Customer churn}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{The many forms and shapes of churn}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.3}{Mechanisms that influence the popularity of SearX}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 17
